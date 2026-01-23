@@ -17,9 +17,14 @@ const statValues = document.querySelectorAll('.stat-value');
 // ============================================
 const roles = [
     "Data Analyst",
+    "Analytics Specialist",
+    "Reporting Analyst",
     "Business Analyst",
     "BI Analyst",
-    "Visualization Specialist"
+    "Visualization Specialist",
+    "Data & Business Analyst",
+    "Data Visualization Analyst",
+    "Decision Support Analyst"
 ];
 
 let roleIndex = 0;
